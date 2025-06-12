@@ -1,0 +1,7 @@
+[project]
+ref = "qabsqdgvsgobwxtebaqo"
+api_url = "https://qabsqdgvsgobwxtebaqo.supabase.co"
+# Fill in the keys below if you need local CLI commands that hit your project directly.
+# Avoid committing real keys to version control.
+api_anon_key = ""
+api_service_role_key = "" 
