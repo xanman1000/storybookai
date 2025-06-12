@@ -3,5 +3,5 @@ ref = "qabsqdgvsgobwxtebaqo"
 api_url = "https://qabsqdgvsgobwxtebaqo.supabase.co"
 # Fill in the keys below if you need local CLI commands that hit your project directly.
 # Avoid committing real keys to version control.
-api_anon_key = ""
+api_anon_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFhYnNxZGd2c2dvYnd4dGViYXFvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDk3NjkyODYsImV4cCI6MjA2NTM0NTI4Nn0.FAHgpGG_RQEzmlDlUY9cqvg2oZ4McXBhI3c8GMUaLuA"
 api_service_role_key = "" 
